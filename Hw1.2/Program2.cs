@@ -8,11 +8,12 @@
         Money money = new Money(inmoney);
         money.Calaulate();
     }
-    public static double ConvertStringToInt(string value){
-        if (double.TryParse(value, out double number)){
+    public static double ConvertStringToInt(string value)
+    {
+        if (double.TryParse(value, out double number))
+        {
             return number;
         }
-        throw new Exception ("Please input Number.");
+        throw new Exception("Please input Number.");
     }
-
 }
