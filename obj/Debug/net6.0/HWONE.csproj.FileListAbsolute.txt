@@ -1,0 +1,15 @@
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.csproj.AssemblyReference.cache
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.AssemblyInfoInputs.cache
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.AssemblyInfo.cs
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.csproj.CoreCompileInputs.cache
+/Users/aditep/Desktop/HWONE/bin/Debug/net6.0/HWONE
+/Users/aditep/Desktop/HWONE/bin/Debug/net6.0/HWONE.deps.json
+/Users/aditep/Desktop/HWONE/bin/Debug/net6.0/HWONE.runtimeconfig.json
+/Users/aditep/Desktop/HWONE/bin/Debug/net6.0/HWONE.dll
+/Users/aditep/Desktop/HWONE/bin/Debug/net6.0/HWONE.pdb
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.dll
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/refint/HWONE.dll
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.pdb
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/HWONE.genruntimeconfig.cache
+/Users/aditep/Desktop/HWONE/obj/Debug/net6.0/ref/HWONE.dll
